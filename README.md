@@ -198,11 +198,6 @@ vivado/       build.tcl (synth→impl→bitstream→reports), sim.tcl (xsim)
 run_sim.sh    Icarus Verilog build/run for every testbench
 ```
 
-Guides: **`README.md`** (this file — architecture & module reference) ·
-**`ARCHITECTURE.md`** (block diagrams + build-from-zero explanation for beginners) ·
-**`TUTORIAL.md`** (absolute-beginner step-by-step: install → verify → run a program →
-benchmark → put it on the Nexys A7 board) · **`bench/README.md`** (performance
-methodology).
 
 ## Simulation
 
