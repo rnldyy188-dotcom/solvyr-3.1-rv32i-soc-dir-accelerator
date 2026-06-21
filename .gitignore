@@ -47,3 +47,7 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Local backup/debug scratch files
+*backup*
+*debug*
