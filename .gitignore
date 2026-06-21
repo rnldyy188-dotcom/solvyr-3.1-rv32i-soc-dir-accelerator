@@ -1,0 +1,49 @@
+﻿# Personal/private
+Rainaldy_Wong_Resume.tex
+*Resume*.tex
+*resume*.tex
+
+# Simulation/build outputs
+build_*
+!build_fpga.sh
+*.vvp
+*.fst
+*.vcd
+*.out
+
+# Firmware build artifacts
+*.o
+*.elf
+*.bin
+*.lst
+bench/host_ref
+
+# Vivado generated files
+vivado/solvyr3_nexys_a7/
+vivado/out/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+*.xpr
+
+# Bitstreams by default
+*.bit
+
+# Reports, unless curated under docs/reports
+*.rpt
+!docs/reports/*.rpt
+
+# Python/cache/OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
